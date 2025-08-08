@@ -5,7 +5,7 @@
 [![badges](https://badges.aleen42.com/src/telegram.svg)](https://t.me/Novgorod_DIYZi)
 [![badges](https://badges.aleen42.com/src/github.svg)](https://github.com/DIYZi)
 
-### buy me a coffee YOOmoney or Boosty 
+### You can thank me in YOOmoney or Boosty
 
 [![Yoomoney](https://img.shields.io/badge/%D0%AE%20money-8A2BE2?style=for-the-badge)](https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1C0AC5OMGQH.250807&)
 [![Boosty](https://img.shields.io/badge/-Boosty-F15F2C?style=for-the-badge)](https://boosty.to/diyzi/donate)
