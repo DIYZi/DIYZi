@@ -19,7 +19,7 @@ https://yoomoney.ru/to/410013422550532
 
 ### Статистика на GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DIYZi&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DIYZi&show_icons=true&theme=merko)
 
 [![badges](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/11111)
 [![badges](https://badges.aleen42.com/src/github.svg)](https://github.com/sponsors/DIYZi)
